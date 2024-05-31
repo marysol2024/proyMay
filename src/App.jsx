@@ -6,10 +6,10 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          ♥️ HOLA MUNDO ESTAMOS COMENZADO CON CODESPACES
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          SOY JUAN PEREZ 
         </p>
         <p>
           <a
